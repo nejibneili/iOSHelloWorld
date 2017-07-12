@@ -1,0 +1,5 @@
+projectKey=swift-helloworld
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/swift-helloworld
+ceTaskId=AV0yKwgpD-Vdk2xF1Bo2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV0yKwgpD-Vdk2xF1Bo2
